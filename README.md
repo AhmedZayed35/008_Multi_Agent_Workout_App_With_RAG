@@ -110,7 +110,7 @@ streamlit run main.py
 ```
 
 ## 📌 Developer Notes
-- Notes are stored as vector-ready documents—future-proofed for advanced RAG applications.
+- Notes are stored as vector-ready documents, future-proofed for advanced RAG applications.
 
 - You can easily swap Langflow with other providers like OpenAI, Claude, or Cohere.
 
